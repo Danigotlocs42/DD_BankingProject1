@@ -6,7 +6,7 @@
 
 //la biblioteca
 #include <iostream>
-#incluse <math.h>
+#include <math.h>
 using namespace std;
 
 //driver method 
